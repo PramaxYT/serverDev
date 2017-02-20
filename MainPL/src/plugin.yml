@@ -1,0 +1,22 @@
+name: Scoreboard
+author: Pramax & FRALEX_GAMING
+website: https://craftermetropolis.jimdo.com
+version: 1.0
+main: me.Pramax.Main.Main
+permissions:
+  scoreboard.owner:
+    [optional permission attributes]
+  scoreboard.admin:
+    [optional permission attributes]
+  scoreboard.developer:
+    [optional permission attributes]
+  scoreboard.moderator:
+    [optional permission attributes]
+  scoreboard.supporter:
+    [optional permission attributes]
+  scoreboard.builder:
+    [optional permission attributes]
+  scoreboard.premium:
+    [optional permission attributes]
+  scoreboard.spieler:
+    [optional permission attributes]
