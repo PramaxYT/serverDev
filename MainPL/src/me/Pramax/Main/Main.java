@@ -19,7 +19,7 @@ public class Main extends JavaPlugin implements Listener {
 	public void onEnable() {
 	
 		this.getServer().getPluginManager().registerEvents(this, this);
-		//slyöxcyvjömövä
+		
 	}
 	
 	public void setScoreboard(Player p) {
